@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Javaoprator {
     public static void main (String arg[]){
-     /*  // arithmetic opration
+       // arithmetic opration
         int a =10;
         int b=5;
         System.out.println(a+b);
@@ -40,7 +40,7 @@ public class Javaoprator {
 
         int ag=19;
         String ab=ag>18?"yes":"no";
-        System.out.println(ab);*/
+        System.out.println(ab);
 
      // class room example:- with ternary oprator
 
