@@ -59,7 +59,9 @@ public class Main {
 
         int myNum6 = 5;
         float myFloatNum = 5.99f;
+        int me= 23;
         System.out.println(myFloatNum);
+        System.out.println(me);
 
 
 
