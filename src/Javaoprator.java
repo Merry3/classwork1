@@ -81,7 +81,7 @@ public class Javaoprator {
         String  cd= userinput >18? "adult":"under age";
         System.out.println(cd);
 
-
+//
 
 
 
